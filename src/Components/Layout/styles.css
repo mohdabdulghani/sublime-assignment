@@ -1,0 +1,9 @@
+.componentLayout {
+  margin-left: 40%;
+  margin-top: 20%;
+  width: 300px;
+  height: 350px;
+  border: solid 1px rgba(124, 121, 121, 0.5);
+  border-radius: 5px;
+  position: fixed;
+}

@@ -1,0 +1,22 @@
+.font {
+  font-size: 10px;
+  color: rgba(41, 14, 160, 0.671);
+  text-align: left;
+  font-weight: bold;
+}
+
+.footerLayout {
+  display: flex;
+  width: 200px;
+  margin-left: 45px;
+  margin-top: 35px;
+  align-items: center;
+}
+
+.button {
+  margin-left: 45px;
+  background-color: rgba(41, 14, 160, 0.671);
+  color: white;
+  height: 22px;
+  width: 60px;
+}
